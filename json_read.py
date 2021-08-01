@@ -24,3 +24,5 @@ for i in range(len(danmu_dic_1)):
 
 if count > 0:
     print("文件不相同")
+
+print("file has been changed")
